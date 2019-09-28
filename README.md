@@ -16,7 +16,7 @@ but they aren't exact copies. The chart is made of two files:
 ## Equally good for north and south
 An unusual aspect of the charts: they are duplicated, first with a bias for observers in the Northern hemisphere (charts 1-6),
 and then for observers in the Southern hemisphere (charts 7-12), in which the labels are printed "upside down".
-I thought it would be nice to be polite for the poor folks in the southern hemisphere, who usually have to put up with a 
+I thought it would be nice to be polite to the poor folks in the southern hemisphere, who usually have to put up with a 
 Northern bias.
 
 ## Tragically Hip
