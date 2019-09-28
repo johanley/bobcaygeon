@@ -1,0 +1,449 @@
+# translated text
+# one item per line; no new lines can be included in the text content.
+author=John O'Hanley
+title=Bobcaygeon Constellations
+title-upper-case=BOBCAYGEON CONSTELLATIONS
+subject=Star charts designed specifically for learning the constellations
+bold-orion=Ho, bold Orion! What news of the chase?
+date-published=August 2019
+East=East
+West=West
+Due south at 8pm=← South 8pm LMT
+Due north at 8pm=← North 8pm LMT
+Magnitude=Magnitude
+Symbols=Symbols
+Open Cluster=Open Cluster
+Globular Cluster=Globular Cluster
+Galaxy=Galaxy
+Nebula=Nebula
+
+north-celestial-pole=North Celestial Pole
+south-celestial-pole=South Celestial Pole
+
+# Overview --------------------------------------------
+overview=Overview
+overview-1=These charts are designed specifically to help you learn the constellations.
+overview-2=There are two goals: that you learn the constellations quickly, and that you learn them well.
+ 
+large-size=Large size
+large-size-1=Almost all star charts intended for beginners share a common defect: they are too small.
+large-size-2=Small charts make it very hard to translate what you see on the chart into what you see in the sky, because of the difference in scale.
+large-size-3=In addition, small charts can't contain the number of stars that you would typically see from a location with a reasonably dark sky.
+
+easy-to-read=Easy to read
+easy-to-read-1=At night, in low light conditions, you need to be able to read the chart easily.
+easy-to-read-2=These charts are black-on-white, with the highest possible contrast. 
+
+show-whats-needed=Show what's needed, but no more
+show-whats-needed-1=The number of stars shown by these charts match what you usually see at a site with a reasonably dark sky.
+show-whats-needed-2=These charts show stars that are brighter than the fifth magnitude.
+
+planispheres=Planispheres
+planispheres-1=Many beginners use a planisphere to learn the constellations. 
+planispheres-2=Planispheres are well suited for showing you what constellations are currently above the horizon.
+planispheres-3=But they suffer from the defects mentioned above: they are too small, usually have low contrast, and 
+planispheres-4=don't show what you typically see from a reasonably dark sky. 
+
+devices=Devices
+devices-1=Many beginners use an app on a tablet or phone to learn the constellations.
+devices-2=In this context, there are two problems with such devices. 
+devices-3=First, the screens tend to be bright, which is bad for your night-vision.
+devices-4=Second, the scale is usually too small (especially on phones).
+ 
+
+basic-astro-facts=Basic facts about the sky
+basic-astro-facts-a-1=Objects in the sky rise in the east, and set in the west.
+basic-astro-facts-a-2=To an observer in the northern (southern) hemisphere, when an object is due south (north), it's at its highest point in the sky.
+
+basic-astro-facts-b-1=The sky has two celestial poles, and a celestial equator.
+basic-astro-facts-b-2=You can visualize the celestial poles as projections of the Earth's north pole and south pole out into infinite space.
+basic-astro-facts-b-3=From the point of view of an observer, the celestial poles are points on the sky. The north celestial pole is near Polaris (the north star), but the south celestial pole is not near a bright star.
+basic-astro-facts-b-4=You can also visualize the celestial equator as being a projection of the Earth's equator out into infinite space.
+basic-astro-facts-b-5=From the viewpoint of an observer, the celestial equator forms a great circle in the sky.
+basic-astro-facts-b-6=The celestial equator intersects the horizon at two places: due east and due west.
+
+basic-astro-facts-c-1=Because the Earth rotates, the stars appear to slowly turn around the celestial poles.
+basic-astro-facts-c-2=This apparent motion is slower for stars near the celestial poles, and faster for stars near the celestial equator.
+ 
+basic-astro-facts-d-1=To measure the direction of objects in the sky, astronomers use two coordinates, which are both angles.
+basic-astro-facts-d-2=The system is similar to how latitude and longitude are used on the surface of the Earth (which are also both angles).
+basic-astro-facts-d-3=The coordinates used by astronomers have special names: declination and right ascension.
+
+declination=Declination is like latitude
+declination-1=Declination measures the angle of an object from the celestial equator, in the direction of one the celestial poles.
+declination-2=The celestial equator has declination of 0°. 
+declination-3=North of the celestial equator, declination increases to a maximum of +90° at the north celestial pole.
+declination-4=South of the celestial equator, declination decreases to a minimum of -90° at the south celestial pole.
+
+right-ascension=Right ascension is like longitude 
+right-ascension-1=On the surface of the Earth, longitude is measured from the Greenwich meridian. 
+right-ascension-2=On the sky, right ascension measures an angle from a point on the celestial equator called the vernal equinox, in the constellation Pisces.
+right-ascension-3=(When spring begins, the Sun crosses the celestial equator at the vernal equinox, moving from south to north.)
+right-ascension-4=The right ascension angle is measured perpendicular to the declination angle.
+right-ascension-5=Somewhat confusingly, the right ascension angle is not measured in degrees, but in time: hours, minutes, and seconds.
+right-ascension-6=Right ascension increases eastward across the sky.
+right-ascension-7=The full circle of 360° corresponds to 24 hours of right ascension.
+right-ascension-8=So, 1 hour of right ascension corresponds to 15°.
+
+
+ecliptic=Ecliptic
+ecliptic-1=The solar system is fairly flat.   
+ecliptic-2=Most objects in the solar system stay relatively close to the same plane.
+ecliptic-3=The plane of the Earth's orbit around the Sun is called the ecliptic. 
+ecliptic-4=On the charts, the ecliptic is indicated by a dashed line. It's a great circle that goes all the way around the sky. 
+ecliptic-5=The ecliptic intersects the celestial equator at an angle of about 23.4°.
+ecliptic-6=The 12 constellations of the zodiac are found all along the ecliptic.
+ecliptic-7=The Sun is always exactly on the ecliptic, while the Moon and the planets are never far from it.
+
+stellar-magnitude=Stellar magnitude
+stellar-magnitude-1=Astronomers describe the brightness of objects using a number called magnitude. 
+stellar-magnitude-2=It works in reverse, however: the brighter the object, the smaller the magnitude. 
+stellar-magnitude-3=For example, the magnitude of the bright star Vega is 0.0.
+stellar-magnitude-4=A slightly fainter star would have magnitude 1.0. 
+stellar-magnitude-5=The faintest stars you can see are about magnitude 6.0.
+stellar-magnitude-6=With fainter magnitude, the number of stars starts to increase very rapidly. 
+stellar-magnitude-7=These charts show stars down to magnitude 5.0. 
+
+constellations=Constellations
+constellations-1=For thousands of years, different cultures have identified certain arbitrary patterns in the sky, and given them names.
+constellations-2=These named patterns of stars are called constellations. 
+constellations-3=They simply help you memorize the geography of the sky.
+constellations-4=For historical reasons, the constellations used by cultures of the Middle East, the Mediterranean, and Europe have more or less been been adopted by astronomers worldwide.
+constellations-5=The International Astronomical Union (IAU), a world-wide organization of professional astronomers, has defined a standard list of 88 constellations. This list defines both the names and boundaries of all the constellations.
+constellations-6=(The 88 constellations cover the whole sky, with no gaps.) The lines drawn to join the stars in a constellation are arbitrary, and aren't standardized.
+
+asterism=Asterisms
+asterism-1=An asterism is an easily recognized pattern of stars, that has a traditional name outside the defined list of 88 constellations.
+asterism-2=The main asterisms are:
+asterism-list-1=Orion's belt
+asterism-list-2=the Hyades, a cluster in Taurus
+asterism-list-3=the Pleiades, another cluster in Taurus
+asterism-list-4=the Summer Triangle of three bright stars: Deneb, Vega, and Altair 
+asterism-list-5=the Big Dipper (known as the Plough in the United Kingdom) in Ursa Major
+asterism-list-6=the Southern Cross in Crux
+asterism-list-7=the Northern Cross in Cygnus
+asterism-list-8=the Great Square of Pegasus
+asterism-list-9=the keystone in Hercules
+asterism-list-10=the teapot in Sagittarius
+asterism-list-11=the circlet in Pisces
+
+deep-sky-objects=Deep sky objects
+deep-sky-objects-1=Deep sky object is a generic word for various kinds of objects other than regular stars.
+deep-sky-objects-2=These charts show the positions of some of the brighter and more well-known deep sky objects.
+deep-sky-objects-3=You usually need binoculars or a telescope to see deep sky objects, but a few are visible to the naked eye, such as the Orion Nebula (M42), and the Andromeda Galaxy (M31).
+deep-sky-objects-4=They are classified here into four types:
+deep-sky-objects-types-1=open cluster - a cluster of tens to thousands of stars.
+deep-sky-objects-types-2=globular cluster - a concentrated spherical cluster of up to millions of stars. 
+deep-sky-objects-types-3=galaxy - a large, distant collection of billions of stars.
+deep-sky-objects-types-4=nebula - an interstellar cloud of gas and/or dust.
+
+deep-sky-objects-b-1=The deep sky objects on these charts come from two catalogs.
+deep-sky-objects-b-2=Messier's catalog (for example, M42 for the Orion Nebula), and the New General Catalog (for example, N2903 is a galaxy in Leo). 
+
+star-designations=Star designations
+star-designations-1=Stars can be designated in various ways.
+star-designations-2=The brightest stars have traditional names.
+star-designations-3=For fainter stars, catalog designations are used instead of names. 
+star-designations-4=For example, the brightest star in the constellation Taurus has the traditional name of Aldebaran.
+star-designations-5=It is also referred to as "α Tau" or "α Tauri": this is called the Bayer designation. 
+star-designations-6=The Bayer designation has two parts: a letter from the Greek alphabet, followed by the constellation (either its abbreviation or its genitive form; the genitive form means "of" or "from").   
+star-designations-7=Another designation is called the Flamsteed number. 
+star-designations-8=The Flamsteed number also has two parts, a simple number followed by the constellation name.
+star-designations-9=For example, 87 Tau is the Flamsteed designation of Aldebaran.
+
+
+how-to-use-the-charts=How to use the charts
+
+dark-site=Go to a reasonably dark site
+dark-site-1=If you live in a city, you will almost always need to travel some distance away from the city, in order to have a reasonably dark sky.
+dark-site-2=Unfortunately, with modern light pollution, most cities are too bright at night to see the constellations clearly. 
+dark-site-3=It's best to go to a site that is dark, but not profoundly dark.
+dark-site-4=If the sky is profoundly dark, then it's easy to get overwhelmed with the number of stars you see,  
+dark-site-5=and the sky won't match the charts very closely. It's often better to go south of your city, if you can, because astronomers observe the sky towards the south/east/west more often than towards the north. 
+
+cardinal-directions=Find the cardinal directions
+cardinal-directions-1=The cardinal directions are north, south, east, and west.
+cardinal-directions-2=Remember that things rise in the east, and set in the west.
+cardinal-directions-3=At noon, the Sun is in the south.
+cardinal-directions-4=When you face north, east is on your right, west to your left, and south is directly behind you.
+cardinal-directions-5=At night, in the northern hemisphere, you can orient yourself by using Polaris, the north star. 
+cardinal-directions-6=Most people are able to recognize the Big Dipper (or the Plough). To find Polaris, you use the two "pointer" stars on the 
+cardinal-directions-7=end of the Big Dipper (the Plough): they point nearly exactly to Polaris, a little under 30° away. 
+
+dark-adapt=Let your eyes become dark-adapted
+dark-adapt-1=Your eyes need about 20 minutes or so to become fully dark-adapted. 
+dark-adapt-2=Having your full night-vision lets you see the fainter stars more easily.
+dark-adapt-2=Be careful to preserve your night vision! If your eyes see a bright light, then most of your night vision will be lost in an instant, and you will have to wait again in the dark to regain it. Frustrating!
+
+averted-vision=Use averted vision for dim objects
+averted-vision-1=You can also see dim objects more clearly by using averted vision.
+averted-vision-2=If you look slightly off to the side of a dim object, you can see it a bit better. 
+averted-vision-3=When your eyes are in that position, the light from the "off-center" object hits the part of your retina which is most 
+averted-vision-4=sensitive to dim light. 
+
+red-light=Use a dim red (or amber) flashlight
+red-light-1=To read the charts, you will usually need to illuminate them, typically with a small flashlight.
+red-light-2=Two things are critical: the light should be dim, just strong enough to let you read the chart. 
+red-light-3=The light should be red or amber, to best preserve your precious night-vision.   
+
+date-scale=Use the date scale to know which stars are south
+date-scale-1=The charts include a date scale, to help you get oriented.
+date-scale-2=The date scale lets you see which right ascension is due south, at a given date and time.
+
+date-scale-a-1=Let's take an example, using the date of November 20.
+date-scale-a-2=On Chart 2, the date scale for November 20 is lined up close to right ascension of 0 hours (the vernal equinox).
+date-scale-a-3=At 8pm, 0h00m right ascension is due south (in the southern hemisphere, switch this to due north).
+date-scale-a-4=One hour later, at 9pm, the right ascension of 1h00m will be due south, and so on.
+date-scale-a-5=You don't need to be exact about this. 
+date-scale-a-6=As long as you have an approximate idea of what part of the sky is due south, you will be fine.
+date-scale-a-7=If you have a summer hour, you'll need to subtract it first, in order to use standard time, not summer time.
+
+lmt-a-1=The date scale is for Local Mean Time (LMT), not standard time.
+lmt-a-2=There's a small difference between the two.
+lmt-a-3=It depends on how many degrees east/west you are from the central meridian of your time zone. 
+lmt-a-4=If you feel like being exact about it, you can calculate what that small difference is. This done once only, for your observing location.
+
+lmt-b-1=Example: Bobcaygeon is a small town in Ontario, Canada.
+lmt-b-2=It's in the Eastern Time Zone. That time zone has a difference of 5 hours from Universal Time (UT).
+lmt-b-3=The central meridian of the Eastern Time Zone is longitude 75° west. 
+lmt-b-4=The longitude of Bobcaygeon itself is 78.54° west. 
+lmt-b-5=So, Bobcaygeon is 3.54° west of its time zone's central meridian.
+lmt-b-6=That corresponds to 14 minutes of time difference.
+lmt-b-7=If you are to the west (east) of your time zone's central meridian, then you add (subtract) this difference to the date-scale on the chart.
+lmt-b-8=That converts Local Mean Time to Standard Time.
+lmt-b-9=In the case of Bobcaygeon, the 14 minutes is added to the date-scale on the chart, to move from LMT to standard time.
+lmt-b-10=So, at Bobcaygeon, on November 20, at 8:14 pm Eastern Standard Time, the right ascension which is due south is close to 0h00m.
+
+
+lmt-conversion-header-1=Item
+lmt-conversion-header-2=Value
+lmt-conversion-header-3=Description
+lmt-conversion-list-1=Eastern Standard Time,5h from UT,Difference from Universal Time (GMT)
+lmt-conversion-list-2=EST central meridian,75° W,5h x 15°/h
+lmt-conversion-list-3=Longitude of Bobcaygeon,78.54° W,From google maps 
+lmt-conversion-list-4=Diff from central meridian,+3.54° W,78.54° - 75° = +3.54°
+lmt-conversion-list-5=Time diff from central meridian,+00:14,+3.54° x 00:60 / 15° (+West/-East) 
+
+hints=Helpful hints
+hints-1=Here are some hints to help you get started:
+hints-list-1=It's tiring to look up for long periods while standing. Use a reclining chair, or lay down. 
+hints-list-2=If insects are a problem, use bug spray.
+hints-list-3=A human guide is best! Find a friend who already knows the constellations.
+hints-list-4=Try starting with what you know, or starting with the brightest stars.
+hints-list-5=Try putting red nail polish on an old flashlight, to have a source of dim red light.
+hints-list-6=The planets and the Moon can help you identify things, as they pass through different constellations.
+hints-list-7=Remember "the pointers": the stars on the end of the Big Dipper point to Polaris, the north star.
+hints-list-8="Follow the arc to Arcturus": the arc of the Big Dipper's handle, when extended, leads to the star Arcturus.
+
+northern-charts=Charts 1-6 are for observers in the northern hemisphere
+southern-charts=Charts 7-12 are for observers in the southern hemisphere
+
+constellation-list=List of the 88 constellations
+constellation-list-header-1=Abbr
+constellation-list-header-2=Name
+constellation-list-header-3=Description
+constellation-list-header-4=Pronunciation
+constellation-list-1=Andromeda, And, The chained maiden,an-DROM-eh-duh
+constellation-list-2=Antlia, Ant, Air pump,ANT-leah
+constellation-list-3=Apus, Aps, Bird of paradise,APE-pus
+constellation-list-4=Aquarius, Aqr, Water-bearer,ah-KWAIR-ee-us
+constellation-list-5=Aquila, Aql, Eagle,ACK-will-ah
+constellation-list-6=Ara, Ara, Altar,AIR-rah
+constellation-list-7=Aries, Ari, Ram,AIR-eez
+constellation-list-8=Auriga, Aur, Charioteer,oh-RYE-guh
+constellation-list-9=Boötes, Boo, Herdsman,bow-OAT-teez
+constellation-list-10=Caelum, Cae, Chisel,SEE-lum
+constellation-list-11=Camelopardalis, Cam, Giraffe,cam-el-oh-PAR-del-us
+constellation-list-12=Cancer, Cnc, Crab,CAN-sir
+constellation-list-13=Canes Venatici, CVn, Hunting dogs,CAN-eez-ven-AT-is-see
+constellation-list-14=Canis Major, CMa, Greater dog,CAN-is-MAY-jer
+constellation-list-15=Canis Minor, CMi, Lesser dog,CAN-is-MINE-er
+constellation-list-16=Capricornus, Cap, Goat,CAP-ri-CORN-uss
+constellation-list-17=Carina, Car, Keel,ka-RYE-nah
+constellation-list-18=Cassiopeia, Cas, Queen,CASS-ee-oh-PEE-ah
+constellation-list-19=Centaurus, Cen, Centaur,sen-TOR-us
+constellation-list-20=Cepheus, Cep, King,SEE-fee-us
+constellation-list-21=Cetus, Cet, Whale,SEE-tuss
+constellation-list-22=Chamaeleon, Cha, Chameleon,kah-MEE-lee-un
+constellation-list-23=Circinus, Cir, Compasses, SIR-sin-us
+constellation-list-24=Columba, Col, Dove, koh-LUM-bah
+constellation-list-25=Coma Berenices, Com, Berenice's hair, KO-mah BEAR-in-EYE-sees
+constellation-list-26=Corona Australis, CrA, Southern crown, kah-RO-nah awe-STRAL-iss
+constellation-list-27=Corona Borealis, CrB, Northern crown, kah-RO-nah bore-ree-AL-iss
+constellation-list-28=Corvus, Crv, Crow, COR-vuss
+constellation-list-29=Crater, Crt, Cup, CRAY-ter
+constellation-list-30=Crux, Cru, Cross, KRUX
+constellation-list-31=Cygnus, Cyg, Swan, SIG-nuss
+constellation-list-32=Delphinus, Del, Dolphin, del-FINE-uss
+constellation-list-33=Dorado, Dor, Swordfish, doh-RAH-doh
+constellation-list-34=Draco, Dra, Dragon, DRAY-koh
+constellation-list-35=Equuleus, Equ, Little horse, eek-KWOO-lee-uss
+constellation-list-36=Eridanus, Eri, River, ee-RID-an-uss
+constellation-list-37=Fornax, For, Furnace, FORE-nacks
+constellation-list-38=Gemini, Gem, Twins, JEMM-in-eye
+constellation-list-39=Grus, Gru, Crane, GRUSS
+constellation-list-40=Hercules, Her, Son of Zeus, HER-kyou-leez
+constellation-list-41=Horologium, Hor, Clock, HOR-oh-LOH-jee-um
+constellation-list-42=Hydra, Hya, Water snake (female), HIGH-druh
+constellation-list-43=Hydrus, Hyi, Water snake (male), HIGH-druss
+constellation-list-44=Indus, Ind, Indian, IN-duss
+constellation-list-45=Lacerta, Lac, Lizard, lah-SIR-tah
+constellation-list-46=Leo, Leo, Lion, LEE-oh
+constellation-list-47=Leo Minor, LMi, Lesser lion, LEE-oh MY-ner
+constellation-list-48=Lepus, Lep, Hare, LEE-pus
+constellation-list-49=Libra, Lib, Balance, LEE-brah
+constellation-list-50=Lupus, Lup, Wolf, LOO-pus
+constellation-list-51=Lynx, Lyn, Lynx, LINKS
+constellation-list-52=Lyra, Lyr, Lyre, LYE-ruh
+constellation-list-53=Mensa, Men, Table, MEN-sah
+constellation-list-54=Microscopium, Mic, Microscope, MY-kro-SCOPE-ee-um
+constellation-list-55=Monoceros, Mon, Unicorn, mon-OSS-er-us
+constellation-list-56=Musca, Mus, Fly, MUSK-ah
+constellation-list-57=Norma, Nor, Carpenter's level, NOR-mah
+constellation-list-58=Octans, Oct, Octant, OCK-tans 
+constellation-list-59=Ophiuchus, Oph, Serpent-bearer, OFF-ee-YOU-kuss
+constellation-list-60=Orion, Ori, Hunter, oh-RYE-on 
+constellation-list-61=Pavo, Pav, Peacock, PAY-voh
+constellation-list-62=Pegasus, Peg, Winged horse, PEG-ah-suss
+constellation-list-63=Perseus, Per, Rescuer of Andromeda, PURR-see-uss
+constellation-list-64=Phoenix, Phe, Phoenix, FEE-nicks
+constellation-list-65=Pictor, Pic, Painter, PICK-torr
+constellation-list-66=Pisces, Psc, Fishes, PIE-sees
+constellation-list-67=Piscis Austrinus, PsA, Southern fish, PIE-siss os-TRY-niss
+constellation-list-68=Puppis, Pup, Stern, PUPP-iss
+constellation-list-69=Pyxis, Pyx, Compass, PICK-siss
+constellation-list-70=Reticulum, Ret, Reticule, ree-TICK-you-lum
+constellation-list-71=Sagitta, Sge, Arrow, sah-JIT-ah
+constellation-list-72=Sagittarius, Sgr, Archer, SAJJ-ih-TARE-ee-uss
+constellation-list-73=Scorpius, Sco, Scorpion, SCORE-pee-uss
+constellation-list-74=Sculptor, Scl, Sculptor, SKULLP-tor
+constellation-list-75=Scutum, Sct, Shield, SKYOU-tum
+constellation-list-76=Serpens, Ser, Serpent, SIR-pens
+constellation-list-77=Sextans, Sex, Sextant, SEX-tanz
+constellation-list-78=Taurus, Tau, Bull, TORE-russ
+constellation-list-79=Telescopium, Tel, Telescope, tell-ih-SCOPE-ee-um
+constellation-list-80=Triangulum, Tri, Triangle, try-ANG-gyou-lum
+constellation-list-81=Triangulum Australe, TrA, Southern triangle, try-ANG-gyou-lum ah-STRAL-lay
+constellation-list-82=Tucana, Tuc, Toucan, two-CAN-ah
+constellation-list-83=Ursa Major, UMa, Greater bear, URR-sah MAY-jer
+constellation-list-84=Ursa Minor, UMi, Lesser bear, URR-sah MY-ner
+constellation-list-85=Vela, Vel, Sails, VEE-lah
+constellation-list-86=Virgo, Vir, Virgin or maiden, VERR-go
+constellation-list-87=Volans, Vol, Flying fish, VOLE-ans
+constellation-list-88=Vulpecula, Vul, Fox, vull-PECK-you-lah
+
+asterism-great-square=Great Square
+asterism-circlet=Circlet
+asterism-little-dipper=Little Dipper
+asterism-big-dipper=Big Dipper
+asterism-pleiades=Pleiades
+asterism-hyades=Hyades
+asterism-sickle=Sickle
+asterism-teapot=Teapot
+asterism-keystone=Keystone
+asterism-northern-cross=Northern Cross
+
+star-polaris=Polaris
+star-kochab=Kochab
+star-alderamin=Alderamin
+star-deneb=Deneb
+star-enif=Enif
+star-alpheratz=Alpheratz
+star-mirak=Mirak
+star-markab=Markab
+star-algenib=Algenib
+star-sadr=Sadr
+star-scheat=Scheat
+star-schedir=Schedir
+star-caph=Caph
+star-dipda=Dipda
+star-fomalhaut=Fomalhaut
+star-ankaa=Ankaa
+star-achernar=Achernar
+
+star-almak=Almak
+star-capella=Capella
+star-aldebaran=Aldebaran
+star-menkar=Menkar
+star-elnath=Elnath
+star-menkalinan=Menkalinen
+star-hamal=Hamal
+star-sheratan=Sheratan
+star-bellatrix=Bellatrix
+star-betelgeuse=Betelgeuse
+star-alhena=Alhena
+star-mirfak=Mirfak
+star-algol=Algol
+star-alrisha=Al Risha 
+
+star-rigel=Rigel
+star-saiph=Saiph
+star-sirius=Sirius
+star-adhara=Adhara
+star-canopus=Canopus
+star-arneb=Arneb
+star-achernar=Achernar
+star-mira=Mira
+star-phact=Phact
+
+star-regulus=Regulus
+star-castor=Castor
+star-pollux=Pollux
+star-procyon=Procyon
+
+star-alphard=Alphard
+star-suhail=Suhail
+
+star-arcturus=Arcturus
+star-gemma=Gemma
+star-denebola=Denebola
+star-vindemiatrix=Vindemiatrix
+star-mizar=Mizar
+star-spica=Spica
+star-gacrux=Gacrux
+star-menkent=Menkent
+
+star-deneb=Deneb
+star-vega=Vega
+star-albireo=Albireo
+star-sadr=Sadr
+star-eltanin=Eltanin
+star-rasalgethi=Rasalgethi
+star-rasalhague=Rasalhague
+star-altair=Altair
+star-kaus-australis=Kaus Australis
+star-nunki=Nunki
+star-antares=Antares
+star-shaula=Shaula
+star-dschubba=Dschubba
+star-sabik=Sabik
+
+star-hadar=Hadar
+star-rigil-kentaurus=Rigil Kentaurus
+star-acrux=Acrux
+star-atria=Atria
+star-miaplacidus=Miaplacidus
+star-avior=Avior
+star-alsephina=Alsephina
+star-peacock=Peacock
+star-alnair=Alnair
+star-tiaki=Tiaki
+
+about=About
+about-1=These star charts were created by John O'Hanley (Moncton, New Brunswick, in Canada), out of admiration for the Edmund Mag 5 Star Atlas, published in the 1970s, and now long out of print. 
+about-2=Comments and criticisms can be sent to the author at johnohanley85@gmail.com.
+
+STOP-PARSING
+
+dante-quote=Heaven calls to you and around you wheels, displaying to you its eternal beauties, and your eyes gaze only upon the earth.
+Lydia-Sigourney-quote=Ho! bold Orion, with thy lion-shield; What tidings from the chase? what monsters slain?
+title-quote=Ho, bold Orion! What news from the chase?
+
+
+The point about the change of orientation of the pattern, according to where 
+it is in the sky.
+
+Point: knowing that 'Jupiter is in Capricorn' can help
+Point: get a human to show you
+Point: circumpolar stars - you can see them all the time, so they become familiar faster
+Point: hand-tricks for angular distances (diagram)

@@ -1,0 +1,23 @@
+# Selected using the Observer's Handbook 2019, p318 (Finest NGC objects)
+# NGC num, type, RA (hh mm.m), Dec (dd mm),compass point, common name
+# PN - planetary neb
+# EN - emission neb
+# GY - galaxy
+# OC - open cluster 
+# If no common name, then use a single blank space!
+N7009,PN,21 04.2,-11 22,W,Saturn Nebula
+N7293,PN,22 29.6,-20 48,S,Helix,
+N7331,GY,22 37.1, +34 25,S, ,
+N7789,OC,23 57.0, +56 44,W, ,
+N281,EN,0 52.8,+56 37,S, ,
+N7662,PN,23 25.9,+42 33,S,Blue Snowball
+N891,GY,2 22.6,+42 21,S, ,
+N253,GY,0 47.6,-25 17,S, ,
+N869,OC,2 21.0,+57 08,S,Double Cluster
+N2392,PN,7 29.2,+20 55,E,Eskimo Nebula
+N2237,EN,6 32.3,+5 03,S,Rosette Nebula
+N2403,GY,7 36.9,+65 36,S, ,
+N2841,GY,9 22.0,+50 58,W, , 
+N3242,PN,10 24.8,-18 38,W,Ghost of Jupiter,
+N2903,GY,9 32.2,+21 30,S, ,
+N4244,GY,12 17.5,+37 49,S, ,

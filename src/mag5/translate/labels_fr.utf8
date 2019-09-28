@@ -1,0 +1,14 @@
+# This is incomplete and untested. 
+# It's more or less here just to give you an idea of how translation would work, if implemented.
+author=John O'Hanley
+title=Apprenez les Constellations
+subject=Cartes du ciel pour apprendre les constellations
+East=Est
+West=Ouest
+Due south at 8pm=<- Plein sud 20h TML
+Due north at 8pm=<- Plein nord 20h TML
+Magnitude=Magnitude
+Symbols=Symboles
+Open Cluster=Amas ouvert
+Globular Cluster=Amas globulaire
+Nebula=Nébuleuse
