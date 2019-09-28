@@ -20,7 +20,7 @@ I thought it would be nice to be polite to the poor folks in the southern hemisp
 Northern bias.
 
 ## Tragically Hip
-The charts are titled 'Bobcaygeon Constellations'. That name comes from the song 'Bobcaygeon', by the Tragically Hip.
+The charts are titled 'Bobcaygeon Constellations'. That name comes from the song [Bobcaygeon](https://www.youtube.com/watch?v=o6QDjDPRF5c), by the Tragically Hip.
 (If you carry a Canadian passport, you'll probably understand...)
 
 ## Options for printing
