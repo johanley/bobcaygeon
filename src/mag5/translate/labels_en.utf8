@@ -70,7 +70,7 @@ basic-astro-facts-d-2=The system is similar to how latitude and longitude are us
 basic-astro-facts-d-3=The coordinates used by astronomers have special names: declination and right ascension.
 
 declination=Declination is like latitude
-declination-1=Declination measures the angle of an object from the celestial equator, in the direction of one the celestial poles.
+declination-1=Declination measures the angle of an object from the celestial equator, in the direction of one of the celestial poles.
 declination-2=The celestial equator has declination of 0°. 
 declination-3=North of the celestial equator, declination increases to a maximum of +90° at the north celestial pole.
 declination-4=South of the celestial equator, declination decreases to a minimum of -90° at the south celestial pole.
