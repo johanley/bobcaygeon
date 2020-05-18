@@ -78,6 +78,8 @@ Constraints from lulu.com:
  <li>spine begins 621 Postscript points from the left; 21.905 cm; 2588 px
  <li>total cover width: 1242 X 810 Postscript points; 43.810 cm X 28.571 cm; 5175px X 3375px
  <li>the yellow background I used has rgb = (239,228,176)
+ <li>the font on the cover is Times New Roman
+ <li>the font size of the title is 72; the font-size of the date at the bottom is 36 
 </ul>
 
 <P>
