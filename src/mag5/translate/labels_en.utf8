@@ -1,11 +1,11 @@
 # translated text
 # one item per line; no new lines can be included in the text content.
 author=John O'Hanley
-title=Bobcaygeon Constellations
-title-upper-case=BOBCAYGEON CONSTELLATIONS
+title=Learn The Constellations
+title-upper-case=LEARN THE CONSTELLATIONS
 subject=Star charts designed specifically for learning the constellations
 bold-orion=Ho, bold Orion! What news of the chase?
-date-published=August 2019
+date-published=May 18, 2020
 East=East
 West=West
 Due south at 8pm=← South 8pm LMT
@@ -65,7 +65,7 @@ basic-astro-facts-b-6=The celestial equator intersects the horizon at two places
 basic-astro-facts-c-1=Because the Earth rotates, the stars appear to slowly turn around the celestial poles.
 basic-astro-facts-c-2=This apparent motion is slower for stars near the celestial poles, and faster for stars near the celestial equator.
  
-basic-astro-facts-d-1=To measure the direction of objects in the sky, astronomers use two coordinates, which are both angles.
+basic-astro-facts-d-1=To state the direction of objects in the sky, astronomers use two coordinates, which are both angles.
 basic-astro-facts-d-2=The system is similar to how latitude and longitude are used on the surface of the Earth (which are also both angles).
 basic-astro-facts-d-3=The coordinates used by astronomers have special names: declination and right ascension.
 
@@ -201,7 +201,7 @@ date-scale-a-7=If you have a summer hour, you'll need to subtract it first, in o
 lmt-a-1=The date scale is for Local Mean Time (LMT), not standard time.
 lmt-a-2=There's a small difference between the two.
 lmt-a-3=It depends on how many degrees east/west you are from the central meridian of your time zone. 
-lmt-a-4=If you feel like being exact about it, you can calculate what that small difference is. This done once only, for your observing location.
+lmt-a-4=If you feel like being exact about it, you can calculate what that small difference is. This is done once only, for each observing location.
 
 lmt-b-1=Example: Bobcaygeon is a small town in Ontario, Canada.
 lmt-b-2=It's in the Eastern Time Zone. That time zone has a difference of 5 hours from Universal Time (UT).
@@ -220,7 +220,7 @@ lmt-conversion-header-2=Value
 lmt-conversion-header-3=Description
 lmt-conversion-list-1=Eastern Standard Time,5h from UT,Difference from Universal Time (GMT)
 lmt-conversion-list-2=EST central meridian,75° W,5h x 15°/h
-lmt-conversion-list-3=Longitude of Bobcaygeon,78.54° W,From google maps 
+lmt-conversion-list-3=Longitude of Bobcaygeon,78.54° W,From Google Maps 
 lmt-conversion-list-4=Diff from central meridian,+3.54° W,78.54° - 75° = +3.54°
 lmt-conversion-list-5=Time diff from central meridian,+00:14,+3.54° x 00:60 / 15° (+West/-East) 
 
@@ -430,8 +430,9 @@ star-alnair=Alnair
 star-tiaki=Tiaki
 
 about=About
-about-1=These star charts were created by John O'Hanley (Moncton, New Brunswick, in Canada), out of admiration for the Edmund Mag 5 Star Atlas, published in the 1970s, and now long out of print. 
-about-2=Comments and criticisms can be sent to the author at johnohanley85@gmail.com.
+about-1=These star charts were created by John O'Hanley (Moncton, NB, Canada), out of admiration for the Edmund Mag 5 Star Atlas, published in the 1970s, and now long out of print. 
+about-2=Comments and criticisms can be sent to johnohanley85@gmail.com.  
+about-3=To print more copies of these charts, follow the instructions at https://johanley.github.io/bobcaygeon/index.html. 
 
 STOP-PARSING
 

@@ -95,7 +95,7 @@ class TextContent {
 
   /** Small "About" section. */
   void about() throws DocumentException {
-    section("about", 2);
+    section("about", 3);
   }
   
   // PRIVATE
