@@ -60,18 +60,19 @@ Generate a pdf file suitable for printing by lulu.com.
 <P>The lulu.com printing service used in the past are as follows. 
 (WARNING: you only get these options in the 'US store', not the 'Canadian Store').
 <ul>
- <li>8.5 x 11
+ <li>US Letter 8.5 x 11
  <li>premium paperback
- <li>saddle stitch (staples)
- <li>black and white on white (cream available only for smaller pages)
- <li>paper 104 gsm (70 pound) 
+ <li>saddle stitch (staples on the spine)
+ <li>black and white on white (or cream)
+ <li>paper 90 gsm (60 pound) 
  <li>glossy cover
+ <li>direct access (share the url, but no access through the lulu bookstore), not private access (my own account only)
 </ul>
 
 <P>The cover is a separate (image) file. It's created outside of this project. 
 Constraints from lulu.com:
 <ul>
- <li>PDF, JPG, GIF, or PNG
+ <li>PDF (JPG, GIF, or PNG no longer seem to be supported)
  <li>image resolution should be 300dpi or better (this can be set using irfanview)
  <li>try working initially with a 24-bit bitmap; later save to the desired format (png), and ensure the dpi is 300 (irfanview can be used, for example)
  <li>spine width: 0 Postscript points wide; 0.000 cm; 0 px
@@ -80,6 +81,7 @@ Constraints from lulu.com:
  <li>the yellow background I used has rgb = (239,228,176)
  <li>the font on the cover is Times New Roman
  <li>the font size of the title is 72; the font-size of the date at the bottom is 36 
+ <li>https://tools.pdfforge.org/images-to-pdf : this site can convert a png to a pdf (without changing the dimensions)
 </ul>
 
 <P>
